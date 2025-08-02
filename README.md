@@ -1,11 +1,11 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Antipode Location Finder 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Name: [GAYATHRI N]
 
 
 ### Team Members
@@ -14,47 +14,45 @@
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+Our website takes any location on Earth(latitude and longitude) and tells you what's on the exact opposite side of the planet-even if it's just the middle of the ocean.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Finding the exact opposite location of corresponding latitude and longitude
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+This site leads you to explore and identity the opposite location
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages used:HTML,CSS
+- Libraries used:OpenStreetMap
+- Tools used: Visual studio Code,Vercel for deployment
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- None
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+No installation required
 
 # Run
-[commands]
+Open index.html in your browser
+Enter Latitude and Longitude
+Click "Find Opposite Location"
+Instantly discover your antipode
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1084" height="250" alt="Screenshot 2025-08-02 061304" src="https://github.com/user-attachments/assets/a40b5129-c8ff-42ca-acca-dbd2df3a36b0" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1084" height="250" alt="Screenshot 2025-08-02 061304" src="https://github.com/user-attachments/assets/401be7eb-6c9d-4136-b7f0-3dabebb1110f" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1164" height="392" alt="Screenshot 2025-08-02 061841" src="https://github.com/user-attachments/assets/87b6eb3d-8da4-4091-aeb4-58e7f7e14cac" />
+
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
